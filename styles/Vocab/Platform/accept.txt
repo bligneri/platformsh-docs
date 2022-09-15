@@ -80,6 +80,7 @@ Nori
 npm
 nvm
 OAuth
+octothorpe
 onboarding
 OPcache
 Opigno
@@ -106,7 +107,7 @@ proxied
 Pthreads
 Pyenv
 Quarkus
-rebase
+[Rr]ebase
 recache
 recertification
 redeployment

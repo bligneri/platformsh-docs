@@ -31,7 +31,7 @@ For more details, see [tuning](./tuning.md).
 
 To start a Java application, you need to understand the [Platform.sh structure](../../overview/structure.md).
 At minimum, you need to configure your [application](../../create-apps/_index.md).
-You can also have two [YAML files](../../overview/yaml.md)  if you need:
+You can also have two [YAML files](../../overview/yaml/_index.md)  if you need:
 
 * [Routes](../../define-routes/_index.md)
 * [Services](../../add-services/_index.md)
